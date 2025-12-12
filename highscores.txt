@@ -1,0 +1,5 @@
+CHEAT               18050
+KING                11600
+KK                  10000
+SHEHRY              1500
+K                   900
