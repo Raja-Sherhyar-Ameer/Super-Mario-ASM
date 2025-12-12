@@ -86,6 +86,7 @@ Super-Mario-ASM/
 │       ├── winner.wav
 │       ├── Losing.wav
 │       └── ...
+├── LICENSE
 └── README.md
 ```
 
@@ -96,8 +97,10 @@ Super-Mario-ASM/
 Before compiling, ensure you have the following installed:
 
 1. **Microsoft Macro Assembler (MASM)** — Included with Visual Studio
-2. **Irvine32 Library** — [Download here](http://www.kipirvine.com/asm/)
+2. **Irvine32 Library** — [Download from GitHub](https://github.com/meixinchoy/Irvine-library?tab=readme-ov-file)
 3. **Visual Studio** (2019 or later recommended) with C++ Desktop Development workload
+
+> 📚 **Reference Book:** [Assembly Language for x86 Processors by Kip Irvine](https://www.asmirvine.com/)
 
 ---
 
@@ -187,14 +190,15 @@ This project was developed as part of an academic assignment to demonstrate low-
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 🙏 Acknowledgments
 
-- [Kip Irvine](http://www.kipirvine.com/) for the Irvine32 library
-- Nintendo for the original Super Mario inspiration
+- [Kip Irvine](https://www.asmirvine.com/) — Author of "Assembly Language for x86 Processors"
+- [Irvine32 Library](https://github.com/meixinchoy/Irvine-library?tab=readme-ov-file) — Assembly library for Windows
+- Nintendo — Original Super Mario inspiration
 
 ---
 
